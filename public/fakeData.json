@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "img":"https://i.ibb.co/q06rrGm/volvo.jpg",
+        "title": "Volvo Private Car",
+        "brand": "Volvo",
+        "price": "300000",
+        "detail": "Bluetooth, Backup Camera, LT Package, Decklid-Mounted Lip Spoiler, High-Intensity Discharge Headlamps, LED Taillamps, Preferred Equipment Group 1LT, RS Package, Wheels: 20 5-Split Spoke Machined-Face Aluminum. CARFAX One-Owner.2018 Chevrolet Camaro 1LT Odometer is 20420 miles"
+    },
+    
+{
+        "id":2,
+        "img":"https://i.ibb.co/K5xtQVT/audi.jpg",
+        "title":"Audi Private Car",
+        "brand": "Audi",
+        "price": "250000",
+        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+    },
+    
+    {
+        "id":3,
+        "img":"https://i.ibb.co/Wc6d60h/bmw.jpg",
+        "title":"BMW Car",
+        "brand": "BMW",
+        "price": "370000",
+        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+    },
+    
+    {
+        "id":4,
+        "img":"https://i.ibb.co/0y8wgtJ/honda.jpg",
+        "title":"Honda Private Car",
+        "brand": "Honda",
+        "price": "500000",
+        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams."
+    },
+    
+    {
+        "id":5,
+        "img":"https://i.ibb.co/m8Z9ZyQ/volkswagen.png",
+        "title":"Volkswagen Private Car",
+        "brand": "Volkswagen",
+        "price": "700000",
+        "detail":"ONLY 23723 MILES!, ACCIDENT FREE HISTORY, EXPERIENCE THE CASTLE DIFFERENCE!, CASTLE CHEVROLET NORTH, ELK GROVE VILLAGE ILLINOIS, LOCAL TRADE, LEATHER, AM FM MP3 SIRIUS SATELLITE, BLUETOOTH, 6-SPEED MANUAL, SHORT THROW SHIFTER, REAR DIFFUSER"
+    },
+    
+    {
+        "id":6,
+        "img":"https://i.ibb.co/wskZTTd/rolls-royce.jpg",
+        "title":"Rolls Royce Private Car",
+        "brand": "Rolls Royce",
+        "price": "1010000",
+        "detail":"Recent Arrival! CARFAX One-Owner. Clean CARFAX. CLEAN VEHICLE HISTORY...NO ACCIDENTS, ONE OWNER, POWER SUNROOF, Camaro 1LT, 2D Coupe, 3.6L V6 DGI DOHC VVT, 6-Speed Automatic with TapShift, RWD.Odometer is 53375 miles below market average! 19/30 City/Highway MPGAwards: JD Power Initial Quality Study"
+    },
+    
+    {
+        "id":7,
+        "img":"https://i.ibb.co/kxHGPpd/lexus.jpg",
+        "title":"Lexus Private Car",
+        "brand": "Lexus",
+        "price": "150000",
+        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees"
+    },
+    
+    {
+        "id":8,
+        "img":"https://i.ibb.co/HNkpHhs/bugatti.jpg",
+        "title":"Bugatti Private Car",
+        "brand": "Bugatti",
+        "price": "450000",
+        "detail":"Electronic Stability Control, Emergency communication system, Enhanced Driver Information Center, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front reading lights"
+    },
+    {
+        "id":9,
+        "img":"https://i.ibb.co/BPXgBt8/porsche.jpg",
+        "title":"Porsche Private Car",
+        "brand": "Porsche",
+        "price": "280000",
+        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+    },
+    {
+        "id":10,
+        "img":"https://i.ibb.co/VT7vR1Y/tesla.jpg",
+        "title":"Tesla Car",
+        "brand": "Tesla",
+        "price": "920000",
+        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, Camaro 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White"
+    }
+]
