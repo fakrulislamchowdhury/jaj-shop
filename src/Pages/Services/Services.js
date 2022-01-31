@@ -7,7 +7,7 @@ const Services = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
-        fetch('./fakeData.json')
+        fetch('https://hidden-fortress-42664.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setServices(data))
     }, [])

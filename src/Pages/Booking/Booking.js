@@ -13,7 +13,7 @@ const Booking = () => {
     const [specificDetail, setSpecificDetail] = useState({});
 
     useEffect(() => {
-        fetch('http://localhost:7000/services')
+        fetch('https://hidden-fortress-42664.herokuapp.com/services')
             .then(res => res.json())
             .then(data => setDetails(data))
     }, []);
