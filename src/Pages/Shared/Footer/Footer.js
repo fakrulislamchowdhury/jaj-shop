@@ -17,8 +17,8 @@ const Footer = () => {
                         <h6 className='ps-3'><small>01834-959234</small></h6>
                     </div>
                     <div className='d-flex align-items-center'>
-                        <img src="https://i.ibb.co.com/RcnP64k/location.png" width="12px" alt="" />
-                        <h5 className='ps-3'>Location:</h5>
+                        <img src="https://i.ibb.co.com/RcnP64k/location.png" width="18px" alt="" />
+                        <h5 className='ps-2'>Location:</h5>
                         <h6 className='ps-3'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
                     </div>
                     <div className='d-flex align-items-center'>

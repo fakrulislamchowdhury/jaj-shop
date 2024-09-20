@@ -55,9 +55,8 @@ const Booking = () => {
                 <h1>Our Product Detail</h1>
             </div>
             <div className='bottom'>
-                <div className='booking'>
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={specificDetail?.img} style={{ height: "200px", width: "100%" }} />
+                <div className='booking animate__animated animate__zoomIn'>
+                    <Card style={{ width: '38rem' }}>
                         <Card.Body>
                             <Card.Title>Title: {specificDetail?.title}</Card.Title>
                             <Card.Text>

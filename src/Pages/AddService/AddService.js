@@ -8,7 +8,7 @@ const AddService = () => {
     const onSubmit = data => {
         console.log(data);
 
-        axios.post('https://hidden-fortress-42664.herokuapp.com/services', data)
+        axios.post('/fakeData.json/services', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('Added successfully.');
@@ -18,9 +18,9 @@ const AddService = () => {
     };
 
     return (
-        <div className='add-service'>
+        <div className='add-service animate__animated animate__backInUp'>
             <h2>Please Add a Service</h2>
-            <form onSubmit={handleSubmit(onSubmit)}>
+            <form className='animate animate__animated animate__backInUp' onSubmit={handleSubmit(onSubmit)}>
                 <input {...register("title", { required: true, maxLength: 30 })} placeholder='Title' />
                 <input {...register("brand")} placeholder='Brand' />
                 <input type="number" {...register("price")} placeholder='Price' />

@@ -3,6 +3,7 @@
     justify-content: center;
     text-align: justify;
     padding-top: 30px;
+    animation-delay: 500ms;
 }
 
 .bottom{
