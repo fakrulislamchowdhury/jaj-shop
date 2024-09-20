@@ -13,7 +13,7 @@ const Booking = () => {
     const [specificDetail, setSpecificDetail] = useState({});
 
     useEffect(() => {
-        fetch('https://hidden-fortress-42664.herokuapp.com/services')
+        fetch('/fakeData.json')
             .then(res => res.json())
             .then(data => setDetails(data))
     }, []);
@@ -21,10 +21,10 @@ const Booking = () => {
     useEffect(() => {
         if (details.length > 0) {
             // eslint-disable-next-line eqeqeq
-            const matchData = details.find(detail => detail._id == serviceId)
+            const matchData = details.find(detail => detail.id == serviceId)
             setSpecificDetail(matchData);
         }
-    }, [details, serviceId, specificDetail])
+    }, [details, serviceId, specificDetail]);
 
     return (
         <Container>
@@ -52,14 +52,14 @@ const Booking = () => {
                 </Carousel.Item>
             </Carousel>
             <div>
-                <h1>Our Service Detail</h1>
+                <h1>Our Product Detail</h1>
             </div>
             <div className='bottom'>
                 <div className='booking'>
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={specificDetail?.img} />
+                        <Card.Img variant="top" src={specificDetail?.img} style={{ height: "200px", width: "100%" }} />
                         <Card.Body>
-                            <Card.Title>{specificDetail?.title}</Card.Title>
+                            <Card.Title>Title: {specificDetail?.title}</Card.Title>
                             <Card.Text>
                                 Brand: {specificDetail?.brand}
                             </Card.Text>

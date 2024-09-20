@@ -5,9 +5,22 @@
     padding-top: 10px;
     text-align: justify;
     border-radius: 20px;
+    animation-delay: 500ms;
 }
 
 .service img{
     border-radius: 20px;
     padding: 5px;
 }
+
+.service:hover{
+    background-color: honeydew;
+}
+
+.service:hover img{
+    transform: scale(1.2);
+    overflow: hidden;
+    transition: transform 2s ease-in-out 0.6s;
+    display: block;
+}
+ 

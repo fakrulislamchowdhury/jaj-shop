@@ -7,15 +7,15 @@ const Services = () => {
     const [services, setServices] = useState([]);
 
     useEffect(() => {
-        fetch('https://hidden-fortress-42664.herokuapp.com/services')
+        fetch('/fakeData.json')
             .then(res => res.json())
             .then(data => setServices(data))
-    }, [])
+    }, []);
 
     return (
         <Container>
-            <h1 className='text-primary mt-5'>Our Product</h1>
-            <p>Your Trust Our Forward in Future</p>
+            <h1 className='text-primary mt-2 animate__animated animate__backInUp'>Our Reconditioned Car</h1>
+            <p className='animate__animated animate__backInUp'>Your Belief in Our Future Prospects</p>
             <div className="service-container">
                 {
                     services.map(service => <Service key={service.id} service={service} ></Service>)

@@ -77,13 +77,5 @@
         "brand": "Porsche",
         "price": "280000",
         "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
-    },
-    {
-        "id":10,
-        "img":"https://i.ibb.co/VT7vR1Y/tesla.jpg",
-        "title":"Tesla Car",
-        "brand": "Tesla",
-        "price": "920000",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees, AutoCheck Buy back Protection, Camaro 2LT 2LT, 2D Coupe, 3.6L V6 DI, 8-Speed Automatic, RWD, Krypton Green, Ceramic White"
     }
 ]

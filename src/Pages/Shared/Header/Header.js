@@ -29,7 +29,7 @@ const Header = () => {
                         <Navbar.Toggle />
                         <Navbar.Collapse className="justify-content-start">
                             <NavLink activeStyle={activeStyle} style={style} to="/home">Home</NavLink>
-                            <NavLink activeStyle={activeStyle} style={style} to="/services">Shop</NavLink>
+                            <NavLink activeStyle={activeStyle} style={style} to="/services">Reconditioned Car</NavLink>
                             <NavLink activeStyle={activeStyle} style={style} to="/about">About Us</NavLink>
                             <NavLink activeStyle={activeStyle} style={style} to="/contact">Contact</NavLink>
                             <NavLink activeStyle={activeStyle} style={style} to="/addService">Add Service</NavLink>
