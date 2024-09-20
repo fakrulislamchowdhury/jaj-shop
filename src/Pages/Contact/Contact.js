@@ -11,7 +11,7 @@ const Contact = () => {
             </div>
             <div className='bottom'>
                 <div className='d-flex align-items-center'>
-                    <img src="https://i.ibb.co.com/Y3pf8p8/phone.png" width="18px" alt="" />
+                    <img src="https://i.ibb.co.com/pZhCgYJ/phone.png" width="18px" alt="" />
                     <h5 className='ps-2'>Phone: </h5>
                     <h6 className='ps-3'><small>01834-959234</small></h6>
                 </div>
