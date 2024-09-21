@@ -13,17 +13,17 @@ const Contact = () => {
                 <div className='d-flex align-items-center'>
                     <img src="https://i.ibb.co.com/pZhCgYJ/phone.png" width="18px" alt="" />
                     <h6 className='ps-2'>Phone: </h6>
-                    <h6 className='ps-3'><small>01834-959234</small></h6>
+                    <h6 className='ps-1'><small>01834-959234</small></h6>
                 </div>
                 <div className='d-flex align-items-center'>
                     <img src="https://i.ibb.co.com/RcnP64k/location.png" width="18px" alt="" />
                     <h6 className='ps-2'>Location:</h6>
-                    <h6 className='ps-3'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
+                    <h6 className='ps-1'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
                 </div>
                 <div className='d-flex align-items-center'>
                     <img src="https://i.ibb.co.com/y41r07r/gmail.png" width="20px" height="20px" alt="" />
                     <h6 className='ps-2'>Email:</h6>
-                    <h6 className='ps-3'><small>info@jaj-shop.com.bd</small></h6>
+                    <h6 className='ps-1'><small>info@jaj-shop.com.bd</small></h6>
                 </div>
             </div >
         </Container>
