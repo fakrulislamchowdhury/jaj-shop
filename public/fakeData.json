@@ -1,81 +1,81 @@
 [
     {
         "id":1,
-        "img":"https://i.ibb.co/q06rrGm/volvo.jpg",
-        "title": "Volvo Private Car",
+        "img":"https://i.ibb.co.com/HrdYwGW/Volov-EX90.png",
+        "title": "Volvo EX90",
         "brand": "Volvo",
-        "price": "300000",
-        "detail": "Bluetooth, Backup Camera, LT Package, Decklid-Mounted Lip Spoiler, High-Intensity Discharge Headlamps, LED Taillamps, Preferred Equipment Group 1LT, RS Package, Wheels: 20 5-Split Spoke Machined-Face Aluminum. CARFAX One-Owner.2018 Chevrolet Camaro 1LT Odometer is 20420 miles"
+        "price": "80,000",
+        "detail": "Volvo Car electric vehicles will soon support the North American Charging Standard, enabling access to Tesla's Supercharger network. This will complement the wide access of fast chargers currently available via the CCS (Combined Charging System) network available today."
     },
     
 {
         "id":2,
-        "img":"https://i.ibb.co/K5xtQVT/audi.jpg",
-        "title":"Audi Private Car",
-        "brand": "Audi",
-        "price": "250000",
-        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+        "img":"https://i.ibb.co.com/K5xtQVT/Audi-e-tron.jpg",
+        "title":"Audi 2024 e-tron GT",
+        "brand":"Audi",
+        "price":"1,06,500",
+        "detail":"In our testing, both the e-tron GT and the RS e-tron GT beat their respective range estimates as we observed the same 240 miles of range for each car. Even with this result though, driving range is short of rivals such as the Model S and the Lucid Air. The exhilarating performance of the Audi e-tron GT."
     },
     
     {
         "id":3,
-        "img":"https://i.ibb.co/Wc6d60h/bmw.jpg",
-        "title":"BMW Car",
+        "img":"https://i.ibb.co.com/Physhs0/BMW-X7.png",
+        "title":"2024 BMW X7",
         "brand": "BMW",
-        "price": "370000",
-        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+        "price": "83,500",
+        "detail":"The 2025 BMW X7 Convertible, engineered by BMW, is a standout sport convertible. Everyday cars are turning more into fighter jets. BMW's new eye-tracking Highway Assistant technology part of its Driving Assistance Professional package on the redesigned 2024."
     },
     
     {
         "id":4,
-        "img":"https://i.ibb.co/0y8wgtJ/honda.jpg",
-        "title":"Honda Private Car",
+        "img":"https://i.ibb.co.com/Zgjddcg/Honda-Prologue.png",
+        "title":"Honda Prologue",
         "brand": "Honda",
-        "price": "500000",
-        "detail":"Chicago Motors has a wide variety of Police Vehicles available at all times. Most of our inventory is sold before we have a chance to get them online. If what you are looking for is not available in our inventory or has been marked sold, please contact us and we will do whatever we can to help you find the Police Vehicle of your dreams."
+        "price": "49,000",
+        "detail":"The 2024 Prologue, Honda's latest attempt at an EV after the ill-fated Clarity sedan and Fit EV, is a mid-size SUV with a restrained look that doesn't shout its eco-friendly mission. The Prologue rides on a platform developed jointly with General Motors and is powered by the same the last battery pack."
     },
     
     {
         "id":5,
-        "img":"https://i.ibb.co/m8Z9ZyQ/volkswagen.png",
-        "title":"Volkswagen Private Car",
+        "img":"https://i.ibb.co.com/QQrnR7b/Volkswagen-Beetle.jpg",
+        "title":"Volkswagen Beetle",
         "brand": "Volkswagen",
-        "price": "700000",
-        "detail":"ONLY 23723 MILES!, ACCIDENT FREE HISTORY, EXPERIENCE THE CASTLE DIFFERENCE!, CASTLE CHEVROLET NORTH, ELK GROVE VILLAGE ILLINOIS, LOCAL TRADE, LEATHER, AM FM MP3 SIRIUS SATELLITE, BLUETOOTH, 6-SPEED MANUAL, SHORT THROW SHIFTER, REAR DIFFUSER"
+        "price": "25,500",
+        "detail":"Fifty years ago, on February 17th, 1972, the 15,007,034th Volkswagen Beetle was produced in Germany, surpass the production record that had previously only been held by the Ford Model T. When the first Beetle rolled off the production line, it was simply called the Volkswagen. In celebration of that record-breaking achievement."
     },
     
     {
         "id":6,
-        "img":"https://i.ibb.co/wskZTTd/rolls-royce.jpg",
-        "title":"Rolls Royce Private Car",
+        "img":"https://i.ibb.co.com/FsjKwkN/Rolls-Royce-Phantom.png",
+        "title":"Rolls Royce Phantom",
         "brand": "Rolls Royce",
-        "price": "1010000",
-        "detail":"Recent Arrival! CARFAX One-Owner. Clean CARFAX. CLEAN VEHICLE HISTORY...NO ACCIDENTS, ONE OWNER, POWER SUNROOF, Camaro 1LT, 2D Coupe, 3.6L V6 DGI DOHC VVT, 6-Speed Automatic with TapShift, RWD.Odometer is 53375 miles below market average! 19/30 City/Highway MPGAwards: JD Power Initial Quality Study"
+        "price": "5,29,000",
+        "detail":"The Rolls-Royce Phantom is a full-sized luxury saloon manufactured by Rolls-Royce Motor Cars. It is the eighth and current generation of the Rolls-Royce Phantom, debuting in 2017, and the second launched by Rolls-Royce under BMW ownership. It is offered in two wheelbase lengths. This is the current flagship model."
     },
     
     {
         "id":7,
-        "img":"https://i.ibb.co/kxHGPpd/lexus.jpg",
-        "title":"Lexus Private Car",
+        "img":"https://i.ibb.co.com/kxHGPpd/Lexus-ES.jpg",
+        "title":"Lexus ES",
         "brand": "Lexus",
-        "price": "150000",
-        "detail":"RS, 20 Inch Wheels, GM Certified, 7 Day Money Back Guarantee!!, Heads Up Display, Back up camera, Remote start, Leather, Pwr Dr Seat, Heated Seats, Heated steering wheel, Ventilated Seats, Dr Memory, Rear Traffic Alert, Blind Spot Monitoring, Apple CarPlay, No added Certification fees"
+        "price": "43,250",
+        "detail":"The Lexus ES has luxury down pat, with a supremely quiet and comfortable interior, a compliant suspension, and plenty of standard equipment. A trio of power trains is offered, comprising a tepid four-cylinder, a smooth V-6, and an efficient hybrid. If all that sounds good, you can stop here."
     },
     
     {
         "id":8,
-        "img":"https://i.ibb.co/HNkpHhs/bugatti.jpg",
-        "title":"Bugatti Private Car",
+        "img":"https://i.ibb.co.com/HNkpHhs/Bugatti-Chiron.jpg",
+        "title":"Bugatti Chiron Super",
         "brand": "Bugatti",
-        "price": "450000",
-        "detail":"Electronic Stability Control, Emergency communication system, Enhanced Driver Information Center, Exterior Parking Camera Rear, Four wheel independent suspension, Front anti-roll bar, Front Bucket Seats, Front Center Armrest, Front dual zone A/C, Front fog lights, Front reading lights"
+        "price": "33,00,000",
+        "detail":"The Super Sport is one of several variants the Bugatti Chiron Super, along with the Pur Sport, and the base Chiron. The Pur Sport serves as the track-oriented version of the Chiron, while the Super Sport offers several modifications that give it an even higher top speed including a longer tail with stacked."
     },
     {
         "id":9,
-        "img":"https://i.ibb.co/BPXgBt8/porsche.jpg",
-        "title":"Porsche Private Car",
+        "img":"https://i.ibb.co.com/6YD4kgZ/Porsche-Panamera.png",
+        "title":"Porsche Panamera 4 E-Hybrid",
         "brand": "Porsche",
-        "price": "280000",
-        "detail":"2015 Chevrolet Camaro 2LT Black Certified. BACK UP CAMERA , Bluetooth, ONE OF A KIND , WILL NOT LAST , MUST GO! , CERTIFIED! , 1 YEAR COMPLIMENTARY MAINTENANCE , Camaro 2LT 2LT, 2D Coupe, Black. Odometer is 28346 miles below market average! Clean CARFAX."
+        "price": "1,15,500",
+        "detail":"It might have its engine up front and a duo of extra doors but it's clear from the way that the 2025 Porsche Panamera sedan drives that it's a close relative of the iconic 911 sports car. Up front is a turbocharged V-6 with 348 horsepower."
     }
 ]

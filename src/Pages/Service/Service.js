@@ -19,7 +19,7 @@ const Service = (props) => {
                             Price: ${price}
                         </Card.Text>
                         <Card.Text>
-                            Price: {detail}
+                            Details: {detail}
                         </Card.Text>
                         <Link to={`/booking/${id}`}><button type="button" className="btn btn-primary">Details...</button></Link>
                     </Card.Body>
