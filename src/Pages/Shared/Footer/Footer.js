@@ -4,47 +4,52 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <Container className='bg-secondary text-white'>
-            <div className='d-flex item2'>
-                <div className='bottom pb-3 me-3'>
+        <Container className='bg-dark text-white'>
+            <div className='item row'>
+                <div className='col-lg-6 mt-3'>
                     <div>
-                        <h3>About us</h3>
-                        <p>Be the first to learn about our latest trends and get exclusive offers!</p>
+                        <h4>Contact Us</h4>
+                        <p className='item2'>Be the first to learn about our latest trends and get exclusive offers!</p>
                     </div>
-                    <div className='d-flex align-items-center'>
+                    <div className='d-flex align-items-center item2'>
                         <img src="https://i.ibb.co.com/pZhCgYJ/phone.png" width="18px" alt="" />
-                        <h5 className='ps-2'>Phone: </h5>
-                        <h6 className='ps-3'><small>01834-959234</small></h6>
+                        <h6 className='ps-2'>Phone: </h6>
+                        <h6 className='ps-1'><small>01834-959234</small></h6>
                     </div>
-                    <div className='d-flex align-items-center'>
+                    <div className='d-flex align-items-center item2'>
                         <img src="https://i.ibb.co.com/RcnP64k/location.png" width="18px" alt="" />
-                        <h5 className='ps-2'>Location:</h5>
-                        <h6 className='ps-3'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
+                        <h6 className='ps-2'>Location:</h6>
+                        <h6 className='ps-1'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
                     </div>
-                    <div className='d-flex align-items-center'>
+                    <div className='d-flex align-items-center item2'>
                         <img src="https://i.ibb.co.com/y41r07r/gmail.png" width="20px" height="20px" alt="" />
-                        <h5 className='ps-2'>Email:</h5>
-                        <h6 className='ps-3'><small>info@jaj-shop.com.bd</small></h6>
+                        <h6 className='ps-2'>Email:</h6>
+                        <h6 className='ps-1'><small>info@jaj-shop.com.bd</small></h6>
                     </div>
                 </div >
-                <div className='ms-5'>
-                    <h3>Information</h3>
-                    <h6>About us</h6>
-                    <h6>Privacy Policy</h6>
-                    <h6>Delivery Information</h6>
-                    <h6>Site Map</h6>
-                    <h6>Contact us</h6>
+                <div className='col-lg-3 mt-3'>
+                    <h4>Get in Touch</h4>
+                    <h6 className='item2'>User Guide</h6>
+                    <h6 className='item2'>Customer Support</h6>
+                    <h6 className='item2'>Privacy Policy</h6>
+                    <h6 className='item2'>Concept Vehicles</h6>
+                    <h6 className='item2'>Experience & Partnerships</h6>
+                    <h6 className='item2'>Service Centers</h6>
+                    <h6 className='item2'>Premium Support</h6>
+                    <h6 className='item2'>Licensing</h6>
+                    <h6 className='item2'>FAQ</h6>
                 </div>
-                <div className='ms-5'>
-                    <h3>Follow us</h3>
-                    <h6>Facebook</h6>
-                    <h6>Instagram</h6>
-                    <h6>Youtube</h6>
-                    <h6>Twitter</h6>
-                    <h6>Ok.ru</h6>
+                <div className='col-lg-3 mt-3'>
+                    <h4>Connect With Us</h4>
+                    <h6 className='item2'><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a></h6>
+                    <h6 className='item2'><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></h6>
+                    <h6 className='item2'><a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">Youtube</a></h6>
+                    <h6 className='item2'><a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">Instagram</a></h6>
+                    <h6 className='item2'><a href="https://x.com/" target="_blank" rel="noopener noreferrer">Twitter</a></h6>
+                    <h6 className='item2'><a href="https://ok.ru/" target="_blank" rel="noopener noreferrer">ok.ru</a></h6>
                 </div>
             </div>
-            <div className="py-2 mt-1 item">
+            <div className="py-2 mt-5">
                 <p>Fakrul Islam &copy; 2024. All Rights Reserved</p>
             </div>
         </Container>

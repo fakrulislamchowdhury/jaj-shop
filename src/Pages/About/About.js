@@ -11,7 +11,7 @@ const About = () => {
     }
     return (
         <Container>
-            <h1 className='mt-4'><u>About us</u></h1>
+            <h1 className='mt-4'><u>About Us</u></h1>
             <div className='row row-cols-1 row-cols-lg-2 pb-5'>
                 <div className='col'>
                     <img className='img-fluid pt-5' src={banner} alt="Img" />

@@ -1,26 +1,42 @@
 .item{
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color: white;
-    text-align: center;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 30px;
 }
 
 .item2{
-    text-align: left;
+    color: darkgray;
+    
 }
 
+.item2 a{
+    color: darkgray;
+    
+}
+
+.item2:hover, .item2:hover a{
+    color: white;
+}
+
+
 @media only screen and (max-width: 688px){
- .item2{
-       display: flex;
-       flex-direction:column;
+ .item{
+       display: grid;
+       grid-template-columns: repeat(1, 1fr);
 
     }
 }
 
 @media only screen and (min-width: 689px) and (max-width: 991px){
-    .item2{
-        display: flex;
-       flex-direction:column;
+    .item{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1312px){
+    .item{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     }
 }
