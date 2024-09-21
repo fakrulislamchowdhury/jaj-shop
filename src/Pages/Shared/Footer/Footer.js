@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <Container className='bg-dark text-white'>
             <div className='item row'>
-                <div className='col-lg-6 mt-3'>
+                <div className='col-lg-6 col-md-12 mt-3'>
                     <div>
                         <h4>Contact Us</h4>
                         <p className='item2'>Be the first to learn about our latest trends and get exclusive offers!</p>
@@ -27,7 +27,7 @@ const Footer = () => {
                         <h6 className='ps-1'><small>info@jaj-shop.com.bd</small></h6>
                     </div>
                 </div >
-                <div className='col-lg-3 mt-3'>
+                <div className='col-lg-3 col-md-12 mt-3'>
                     <h4>Get in Touch</h4>
                     <h6 className='item2'>User Guide</h6>
                     <h6 className='item2'>Customer Support</h6>
@@ -39,7 +39,7 @@ const Footer = () => {
                     <h6 className='item2'>Licensing</h6>
                     <h6 className='item2'>FAQ</h6>
                 </div>
-                <div className='col-lg-3 mt-3'>
+                <div className='col-lg-3 col-md-12 mt-3'>
                     <h4>Connect With Us</h4>
                     <h6 className='item2'><a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a></h6>
                     <h6 className='item2'><a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">LinkedIn</a></h6>

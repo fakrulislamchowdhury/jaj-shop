@@ -14,7 +14,7 @@ const About = () => {
             <h1 className='mt-4'><u>About Us</u></h1>
             <div className='row row-cols-1 row-cols-lg-2 pb-5'>
                 <div className='col'>
-                    <img className='img-fluid pt-5' src={banner} alt="Img" />
+                    <img className='img-fluid pt-3' src={banner} alt="Img" style={{ height: "90%", width: "100%" }} />
                 </div>
                 <div className='col pt-3 paragraph'>
                     <h2 className='text-info'>Our Management Team</h2>
