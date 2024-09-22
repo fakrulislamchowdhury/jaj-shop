@@ -6,8 +6,9 @@
 }
 
 .add-service input, textarea{
-    width: 40%;
-    margin-bottom: 10px;
+    width: 70%;
+    margin-bottom: 20px;
+    padding-top: 20px;
 }
 
 .animate{

@@ -66,7 +66,7 @@ const Booking = () => {
                                 Price: ${specificDetail?.price}
                             </Card.Text>
                             <Card.Text>
-                                {specificDetail?.detail}
+                                Detail: {specificDetail?.detail}
                             </Card.Text>
                             <Link to="/"><Button variant="primary">Go back</Button></Link>
                         </Card.Body>

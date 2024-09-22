@@ -8,7 +8,7 @@ const Service = (props) => {
     return (
         <Container>
             <div className='service p-4 shadow rounded animate__animated animate__zoomIn'>
-                <Card className='card' style={{ width: '18rem' }}>
+                <Card className='card' style={{ width: 'auto' }}>
                     <Card.Img variant="top" src={img} style={{ height: "200px", width: "100%" }} />
                     <Card.Body>
                         <Card.Title>{title}</Card.Title>

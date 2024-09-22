@@ -12,18 +12,18 @@ const Contact = () => {
             <div className='bottom'>
                 <div className='d-flex align-items-center'>
                     <img src="https://i.ibb.co.com/pZhCgYJ/phone.png" width="18px" alt="" />
-                    <h6 className='ps-2'>Phone: </h6>
-                    <h6 className='ps-1'><small>01834-959234</small></h6>
+                    <span className='ps-2'>Phone: </span>
+                    <span className='ps-1'><small>01834-959234</small></span>
                 </div>
                 <div className='d-flex align-items-center'>
-                    <img src="https://i.ibb.co.com/RcnP64k/location.png" width="18px" alt="" />
-                    <h6 className='ps-2'>Location:</h6>
-                    <h6 className='ps-1'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></h6>
+                    <img src="https://i.ibb.co.com/RcnP64k/location.png" width="15px" alt="" />
+                    <span className='ps-2'>Location:</span>
+                    <span className='ps-1'><small>House-45, Rd-7, Banani, Dhaka-1212, BD.</small></span>
                 </div>
                 <div className='d-flex align-items-center'>
-                    <img src="https://i.ibb.co.com/y41r07r/gmail.png" width="20px" height="20px" alt="" />
-                    <h6 className='ps-2'>Email:</h6>
-                    <h6 className='ps-1'><small>info@jaj-shop.com.bd</small></h6>
+                    <img className='pe-1' src="https://i.ibb.co.com/y41r07r/gmail.png" width="20px" height="20px" alt="" />
+                    <span className='ps-1'>Email:</span>
+                    <span className='ps-1'><small>info@jaj-shop.com.bd</small></span>
                 </div>
             </div >
         </Container>
